@@ -9,7 +9,7 @@ Terminal based HangMan game written in C++ with visuals.
 > Just have fun!
 
 
-## Dev Contacts
+## Developer Contacts
 
 Reviews are welcome. You can even contact me on following contacts.
 
